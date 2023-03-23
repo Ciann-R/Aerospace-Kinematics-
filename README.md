@@ -8,7 +8,7 @@
 - Inverse mappings from the DCM to the Quaternion set using Stanley's algorithm.
 - Quaternion addition and subtraction.
 - Solving the Quaternion kinematic differential equations utilising a Runge-Kutte 4 (RK4) integrator.
-#### **3)** The Classial Rodrigues Parameters (CRPs).
+#### **3)** The Classical Rodrigues Parameters (CRPs).
 - Mappings from a set of CRPs to the DCM.
 - Inverse mappings from the DCM to the CRPs.
 - Solving the CRP kinematic differential equations utilising and RK4 integrator.
